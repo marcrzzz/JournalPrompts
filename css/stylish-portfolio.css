@@ -123,7 +123,7 @@ h6 {
   height: 100%;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
+  background: #A6B41F;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -332,14 +332,14 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color: #DCB789 !important;
+  border-color: #DCB789 !important;
   color: #fff !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #155d74 !important;
-  border-color: #155d74 !important;
+  background-color: #C48D49 !important;
+  border-color: #C48D49 !important;
 }
 
 .btn-secondary {
@@ -373,3 +373,13 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ecb807 !important;
 }
+
+.button-center {
+  margin: 0 auto; 
+  display: block;
+}
+
+.bg-light-section {
+  background-color: #C8B34F !important;
+}
+
