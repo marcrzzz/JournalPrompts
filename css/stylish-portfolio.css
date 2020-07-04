@@ -380,6 +380,11 @@ a:hover, a:focus, a:active {
 }
 
 .bg-light-section {
-  background-color: #C8B34F !important;
+  background-color: #DCB789 !important;
+}
+
+.modal-body{
+  font-family: 'Amatic SC', cursive;
+  font-size: 25px;
 }
 

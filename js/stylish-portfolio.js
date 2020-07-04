@@ -62,16 +62,3 @@ var onMapClickHandler = function(event) {
 }
 // Enable map zooming with mouse scroll when the user clicks the map
 $('.map').on('click', onMapClickHandler);
-
-var prompts = [
-  "first prompt",
-  "second prompt",
-  "third prompt",
-  "fourth prompt",
-  "fifth prompt"
-]
-
-function newQuote() {
-  var randomNumber = Math.floor(Math.random() * (prompts.length));
-  document.getElementById('promptDisplay').innerHTML = prompts[randomNumber];
-}
