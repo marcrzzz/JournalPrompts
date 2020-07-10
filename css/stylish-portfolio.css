@@ -290,7 +290,7 @@ h6 {
     clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: rgba(29, 128, 159, 0.9);
+    background-color: #C48D49;
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
@@ -371,7 +371,7 @@ a:hover, a:focus, a:active {
 }
 
 .text-secondary {
-  color: #ecb807 !important;
+  color: #C8B34F !important;
 }
 
 .button-center {
@@ -388,7 +388,7 @@ a:hover, a:focus, a:active {
 }
 
 .modal-body{
-  font-family: 'Special Elite', cursive;
+  /*font-family: 'Special Elite', cursive;*/
   font-size: 30px;
   font-weight: bold;
 }
