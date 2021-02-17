@@ -388,7 +388,7 @@ a:hover, a:focus, a:active {
 }
 
 .modal-body{
-  /*font-family: 'Special Elite', cursive;*/
+  font-family: 'novecento-sans', sans-serif;
   font-size: 30px;
   font-weight: bold;
 }
